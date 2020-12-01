@@ -1,5 +1,4 @@
-# Battle of best classifier
-
+## Battle of best classifier ( Loan pay-off Classifier​ — ​ ML Model )
 ### Introduction
 This project is about finding the best classifier which can predict whether a loan case will be paid off or not. 
 With a historical dataset from previous loan applications, we will clean the data, and apply different classification algorithm on the data. 
